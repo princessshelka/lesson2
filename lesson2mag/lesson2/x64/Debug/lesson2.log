@@ -1,0 +1,2 @@
+﻿  test1Device.cpp
+C:\Users\Cyber_User\Desktop\magshima\Magshimim\year2\c++\semester1\lesson2\lesson2\test1Device.cpp(5,11): error C1083: Cannot open include file: 'Device.h': No such file or directory
